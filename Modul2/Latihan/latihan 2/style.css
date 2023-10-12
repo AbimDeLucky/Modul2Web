@@ -1,8 +1,10 @@
 body {
+  background-color: #007bff;
   font-family: Arial, sans-serif;
 }
 
 .container {
+  background-color: #ffffff;
   width: 400px;
   margin: 0 auto;
   padding: 20px;
@@ -19,6 +21,7 @@ input[type="text"] {
   width: 380px;
   padding: 10px;
   margin-bottom: 10px;
+  background-color: #cccccc69;
   border: 1px solid #ccc;
   border-radius: 3px;
 }
